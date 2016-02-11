@@ -1,0 +1,25 @@
+_repo: Martin-Luthers-Geistliche-Lieder_47861
+contributor:
+  commentator:
+    agent_name: Höfer, Conrad
+    gutenberg_agent_id: '43266'
+    url: http://www.gutenberg.org/2009/agents/43266
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_issued: '2015-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47861'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Martin Luthers Geistliche Lieder
+url: http://www.gutenberg.org/ebooks/47861
