@@ -1,9 +1,13 @@
 _repo: Martin-Luthers-Geistliche-Lieder_47861
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Höfer, Conrad
     gutenberg_agent_id: '43266'
     url: http://www.gutenberg.org/2009/agents/43266
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47861#Martin-Luthers-Geistliche-Lieder
 gutenberg_issued: '2015-01-03'
 gutenberg_type: Text
 identifiers:
